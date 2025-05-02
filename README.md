@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Eleni ✨
+
+🎓 Final-year Computer Science student at the University of Macedonia (Greece) 
+🔍 Passionate about Machine Learning, Data Science, and real-world problem solving  
+💻 Currently working on academic and personal projects involving supervised/unsupervised learning, NLP, and Big Data
+
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL, Java 
+- **Libraries/Tools**: pandas, NumPy, scikit-learn, PySpark, matplotlib, seaborn  
+- **Concepts**: Classification, Clustering, Dimensionality Reduction, NLP, Data Preprocessing etc.
+
+📫 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eleni-loula-3381a7253)
 
 <!--
-**elenilou/elenilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📈 Always learning, exploring, and open to collaborations!
 -->
