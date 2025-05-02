@@ -5,10 +5,6 @@
 💻 Currently working on academic and personal projects involving supervised/unsupervised learning, NLP, and Big Data<br/>
 📫 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eleni-loula-3381a7253)<br/>
 
-### 🛠️ Tech Stack
-- **Languages**: Python, SQL, Java 
-- **Libraries/Tools**: pandas, NumPy, scikit-learn, PySpark, matplotlib, seaborn  
-- **Concepts**: Classification, Clustering, Dimensionality Reduction, NLP, Data Preprocessing etc.
 <!--
 📈 Always learning, exploring, and open to collaborations!
 -->
